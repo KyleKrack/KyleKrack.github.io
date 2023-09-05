@@ -1,5 +1,6 @@
-Here you can say lots of fun things about your site.
 
-Maybe say a some things about yourself.
+Welcome to Kyle Lynn's Website!
 
-Or maybe what you plan to blog about.
+Kyle makes games! I will talk about that here! 
+
+
