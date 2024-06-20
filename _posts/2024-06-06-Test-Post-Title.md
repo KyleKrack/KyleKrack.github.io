@@ -3,7 +3,7 @@
 This is a test post!
 Kyle will post about making games and stuff!
 
-<a href="https://www.w3schools.com/">example of a link working</a> 
+<a href="games\gondolagallery\Web build 1.1\Web build 1.1\index.html">example of a link working</a> 
 
 <head>
     <body>
