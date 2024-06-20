@@ -3,7 +3,7 @@
 This is a test post!
 Kyle will post about making games and stuff!
 
-<a href="games/gondolagallery/Web build 1.1/Web build 1.1/index.html">example of an embedded game</a> 
+<a href="games/gondolagallery/Web build 1.1/Web build 1.1/index.html" target="_blank">example of an embedded game in new tab</a> 
 
 
 
